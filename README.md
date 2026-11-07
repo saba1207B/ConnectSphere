@@ -2,8 +2,8 @@
 
 > A high-end editorial real-time video conferencing, interactive presentation, and creative collaboration platform.
 
-[![Deploy to GitHub Pages](https://github.com/saba1207B/CodeAlpha_ConnectSphere/actions/workflows/deploy.yml/badge.svg)](https://github.com/saba1207B/CodeAlpha_ConnectSphere/actions/workflows/deploy.yml)
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20GitHub%20Pages-01472e?style=flat-square&logo=github)](https://saba1207b.github.io/CodeAlpha_ConnectSphere/)
+[![Deploy to GitHub Pages](https://github.com/saba1207B/ConnectSphere/actions/workflows/deploy.yml/badge.svg)](https://github.com/saba1207B/ConnectSphere/actions/workflows/deploy.yml)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20GitHub%20Pages-01472e?style=flat-square&logo=github)](https://saba1207b.github.io/ConnectSphere/)
 [![React 18](https://img.shields.io/badge/Frontend-React%2018%20%7C%20TypeScript-01472e?style=flat-square&logo=react)](https://react.dev/)
 [![WebRTC](https://img.shields.io/badge/RealTime-WebRTC%20Mesh-01472e?style=flat-square&logo=webrtc)](https://webrtc.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-01472e?style=flat-square)](LICENSE)
@@ -14,7 +14,7 @@
 
 Experience the live application deployed directly on GitHub Pages:
 
-🔗 **Live Website**: [https://saba1207b.github.io/CodeAlpha_ConnectSphere/](https://saba1207b.github.io/CodeAlpha_ConnectSphere/)
+🔗 **Live Website**: [https://saba1207b.github.io/ConnectSphere/](https://saba1207b.github.io/ConnectSphere/)
 
 > ℹ️ **Development note:** The live deployment is an internship demonstration. Real-time features such as camera/microphone access, screen sharing, WebRTC connections, and speech recognition depend on browser permissions, browser support, and network conditions. A desktop browser is recommended for the full experience.
 
@@ -122,8 +122,8 @@ To run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/saba1207B/CodeAlpha_ConnectSphere.git
-cd CodeAlpha_ConnectSphere
+git clone https://github.com/saba1207B/ConnectSphere.git
+cd ConnectSphere
 ```
 
 ### 2. Install Dependencies
@@ -187,7 +187,7 @@ The Express server automatically serves both the API endpoints, WebSocket signal
 ## 📁 Repository Structure
 
 ```
-CodeAlpha_ConnectSphere/
+ConnectSphere/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml              # GitHub Pages CI/CD workflow
